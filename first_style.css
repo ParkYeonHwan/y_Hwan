@@ -1,0 +1,32 @@
+h1{
+  font-size:60px;
+  text-align: center;
+  border-bottom: 5px solid black;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+ol{
+  line-height: 150%; /* 줄 간격 */
+  width: 120px;
+  text-decoration-color: black;
+  margin: 0;
+  border-right: 5px solid black;
+  padding-top: 5px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+#grid{
+  display:grid;
+  grid-template-columns: 180px 1fr;
+}
+
+p{
+  margin-top: 5px;
+}
+
+}
